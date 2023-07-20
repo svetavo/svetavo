@@ -1,18 +1,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRqMnZ5aXNuc3FsaTJnbnh5aHIycWQzcWVkZ3A4eWJoaGd2OHdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
-</div>
-<div id="badges" align="center">
+<div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
 </div>  
-<div id="gif" align="center">
+<div id="gif">
 <img src="https://komarev.com/ghpvc/?username=svetavo&style=flat-square&color=blue" alt=""/>
 </div>
 <h1>
   Привет 
-  <img src=""https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+</div>
 
 ### Мой стек технологий/My tech stack:
 
