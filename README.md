@@ -15,7 +15,7 @@
 </div>
 
 <div id="main" align="center">
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-zdb9TTXk-xGgd5JyN8w2ur0ToCcKvCx4gw2Ggyf23S3bJnyqg6VePo0a2myBNeGj7MXr3_QT2OlsY9YpWPQdDN6e4AyQ=w2880-h1574"/>
+  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-zdb9TTXk-xGgd5JyN8w2ur0ToCcKvCx4gw2Ggyf23S3bJnyqg6VePo0a2myBNeGj7MXr3_QT2OlsY9YpWPQdDN6e4AyQ=w2880-h1574" width="300"/>
 </div>
 
 ### Мой стек технологий/My tech stack:
