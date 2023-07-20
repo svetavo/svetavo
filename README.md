@@ -15,6 +15,7 @@ I am a Full Stack Developer from Novi Sad, Serbia :serbia:
 - :telescope: I’m studying at Yandex.Praktikum
 - :crown: My main interest is React 
 - :zap: In my free time, I read tech articles on Habr and watch YouTube channels
+- :stars: My hobbies are travelling, attending rock-concerts and cheerleading
 - :dog: I also have a corgi named Jake
   
   <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-ySYyC9o_uTNOC-SwT16n1YShw_kzX9_vjzb3-WvLblZdj2bgyOGEphxhcU_1A3NrDwUOmA31NPryNvBhmMLCMbWtvj=w2880-h1574" width="80"/>
