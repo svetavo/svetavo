@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
 </div>       
-<img src="https://komarev.com/ghpvc/?username=svetavo&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=svetavo&style=flat-square&color=blue" alt="" align="center"/>
 
 
 ### Мой стек технологий/My tech stack:
