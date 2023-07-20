@@ -15,7 +15,7 @@
 </div>
 
 <div id="main" align="center">
-  <img src="https://www.careerguide.com/career/wp-content/uploads/2021/06/8d895aad5514962395bd0891e1d1dd45-1.gif"/>
+  <img src="https://drive.google.com/file/d/13oT6PxumpOzcZh1w8lcKTJAKdJ9sUd4e/view?usp=drive_link"/>
 </div>
 
 ### Мой стек технологий/My tech stack:
