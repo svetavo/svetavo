@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRqMnZ5aXNuc3FsaTJnbnh5aHIycWQzcWVkZ3A4eWJoaGd2OHdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRqMnZ5aXNuc3FsaTJnbnh5aHIycWQzcWVkZ3A4eWJoaGd2OHdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
@@ -15,7 +15,7 @@
 </div>
 
 <div id="main" align="center">
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-zdb9TTXk-xGgd5JyN8w2ur0ToCcKvCx4gw2Ggyf23S3bJnyqg6VePo0a2myBNeGj7MXr3_QT2OlsY9YpWPQdDN6e4AyQ=w2880-h1574" width="300"/>
+  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-zdb9TTXk-xGgd5JyN8w2ur0ToCcKvCx4gw2Ggyf23S3bJnyqg6VePo0a2myBNeGj7MXr3_QT2OlsY9YpWPQdDN6e4AyQ=w2880-h1574" width="500"/>
 </div>
 
 ### Мой стек технологий/My tech stack:
