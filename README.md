@@ -14,6 +14,10 @@
 </h1>
 </div>
 
+<div id="main" align="center">
+  <img src="https://www.careerguide.com/career/wp-content/uploads/2021/06/8d895aad5514962395bd0891e1d1dd45-1.gif"/>
+</div>
+
 ### Мой стек технологий/My tech stack:
 
 <img src="https://img.shields.io/badge/react-D8BFD8?style=for-the-badge&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/redux-D8BFD8?style=for-the-badge&logo=redux&logoColor=black"/> <img src="https://img.shields.io/badge/javascript-DDA0DD?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/typescript-DDA0DD?style=for-the-badge&logo=typescript&logoColor=black"/> <img src="https://img.shields.io/badge/webpack-DA70D6?style=for-the-badge&logo=webpack&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-BA55D3?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-BA55D3?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/cypress-9370DB?style=for-the-badge&logo=cypress&logoColor=white"/> 
