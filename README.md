@@ -15,9 +15,11 @@ I am a Full Stack Developer from Novi Sad, Serbia :serbia:
 - :telescope: I’m studying at Yandex.Praktikum
 - :crown: My main interest is React 
 - :zap: In my free time, I read tech articles on Habr and watch YouTube channels
-- :dog: I also have a corgi named Jake 
+- :dog: I also have a corgi named Jake
+  <img src="https://lh3.google.com/u/0/d/1Sf25dKooXs_75B35lskiKwvUb9uXuAZQ=w2880-h1574-iv1" width="150"/>
 
-- :mailbox:How to reach me: <a href="https://t.me/svetavo">
+- :mailbox:How to reach me:
+  <a href="https://t.me/svetavo">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
 
