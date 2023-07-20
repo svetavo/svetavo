@@ -1,13 +1,7 @@
 <div id="main" align="center">
   <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-zdb9TTXk-xGgd5JyN8w2ur0ToCcKvCx4gw2Ggyf23S3bJnyqg6VePo0a2myBNeGj7MXr3_QT2OlsY9YpWPQdDN6e4AyQ=w2880-h1574" width="500"/>
   <div id="badges">
-  <a href="telegram">
-    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
-  </a>
 </div>  
-<!-- <div id="gif">
-<img src="https://komarev.com/ghpvc/?username=svetavo&style=flat-square&color=blue" alt=""/>
-</div> -->
 <h1>
   Hey 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -20,7 +14,6 @@ I am a Full Stack Developer from Novi Sad, Serbia
 
 - :telescope: I’m studying at Yandex.Praktikum
 - :seedling: My main interest is React 
-
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: <a href="https://t.me/svetavo">
