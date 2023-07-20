@@ -23,9 +23,11 @@ I am a Full Stack Developer from Novi Sad, Serbia
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Telegram&logoColor=white)]([your-linkedin-url](https://t.me/svetavo))
+- :mailbox:How to reach me: <a href="https://t.me/svetavo">
+    <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
+  </a>
 
-I speak Russian, English and Serbianq
+I speak Russian, English and Serbian
     
 
 ### My tech stack:
