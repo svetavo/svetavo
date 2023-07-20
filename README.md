@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGRqMnZ5aXNuc3FsaTJnbnh5aHIycWQzcWVkZ3A4eWJoaGd2OHdiNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NgurY1o4z080Jfoyzw/giphy.gif" width="200"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
