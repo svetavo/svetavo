@@ -21,6 +21,7 @@ I am a Full Stack Developer from Novi Sad, Serbia :serbia:
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
 
+
 I speak Russian, English and Serbian
     
 
