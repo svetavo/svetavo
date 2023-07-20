@@ -10,11 +10,12 @@
       
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer from Novi Sad, Serbia 
+I am a Full Stack Developer from Novi Sad, Serbia :serbia:
 
 - :telescope: I’m studying at Yandex.Praktikum
-- :seedling: My main interest is React 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :crown: My main interest is React 
+- :zap: In my free time, I read tech articles on Habr and watch YouTube channels
+- :dog: I also have a corgi named Jake 
 
 - :mailbox:How to reach me: <a href="https://t.me/svetavo">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
