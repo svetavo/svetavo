@@ -5,7 +5,8 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/telegram-black?style=for-the-badge&logo=telegram&logoColor=white" alt="Telefram Badge"/>
   </a>
-</div>
+</div>       
+<img src="https://komarev.com/ghpvc/?username=svetavo&style=flat-square&color=blue" alt=""/>
 
 
 ### Мой стек технологий/My tech stack:
