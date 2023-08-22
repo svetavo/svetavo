@@ -1,5 +1,5 @@
 <div id="main" align="center">
-  <img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-zdb9TTXk-xGgd5JyN8w2ur0ToCcKvCx4gw2Ggyf23S3bJnyqg6VePo0a2myBNeGj7MXr3_QT2OlsY9YpWPQdDN6e4AyQ=w2880-h1574" width="500"/>
+  <img src="https://img.freepik.com/free-vector/colorful-illustration-female-programmer-working_23-2148277397.jpg" width="300"/>
   <div id="badges">
 </div>  
 <h1>
