@@ -10,9 +10,9 @@
       
 ### :woman_technologist: About Me :
 
-I am a Frontend/Full Stack Developer from Novi Sad, Serbia :serbia:
+I am a beginner Frontend/Full Stack Developer from Novi Sad, Serbia :serbia:
 
-- :telescope: I’m studying at Yandex.Praktikum
+- :telescope: I've finished studying at Yandex.Praktikum
 - :crown: My main interest is React 
 - :zap: In my free time, I read tech articles on Habr and watch YouTube channels
 - :stars: My hobbies are travelling, attending rock-concerts and cheerleading
